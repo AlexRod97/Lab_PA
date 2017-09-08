@@ -1,4 +1,4 @@
-# Laboratorio No. 03  
+Laboratorio No. 03  
 =======================
 
 Resultados
@@ -14,7 +14,10 @@ Resultados
   Es un conjunto de metodos abstractos (que solo se han definido) que un objeto en específico debe cumplir. 
   
 2. ¿Que es una clase abstracta?
+  Es una clase que contiene métodos que únicamente están declarados más no están implementados, sin embargo a diferencia de la interfaz esta clase si puede tener algún método implementado. 
   
 3. ¿Que diferencia hay entre herencia e interfaces?
+  La diferencia es que en la herencia se tiene la capacidad de implementar métodos de una clase padre, pero de manera opcional más no es obligatorio que los utilice todos. Mientras que una interfaz es obligatorio que utilice todos los métodos. 
 
 4. ¿Cual es la diferencia entre pila, cola y lista?
+  Una pila solo permite salir al último dato en haber ingresado, mientras que una cola permite que salga el primero en haber entrado y por otro lado la lista tiene la capacidad de imprimr y sacar en cualquier posición
