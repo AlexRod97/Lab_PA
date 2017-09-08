@@ -1,19 +1,19 @@
-# desktop-java-simple
+# Laboratorio No. 03  
+=====================
+Resultados
+----------------
+1. Se crearon dos clases que tomaron omo implementación una interfaz llamada Shape, que permite a otras clases heredar sus atributos, exigiendole que contenga ciertos metodos.
+2. La clase Rectangle es capaz de operar sus atributos para obtener el área de un rectangulo.
+3. La clase Triangle al igual que la clase Rectangle es capaz de operar los atributos que recibe para obtener el área de un triángulo.
+4. All instanciar tres objetos de tipo shape en el main, tienen la capacidad de poder comportarse como un rectangulo o un triangulo, lo cual lo hace polimorfico. 
 
-# Developer Workspace
 
-[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=omriatu352kkthua)
+# Preguntas
+1. ¿Que es una interfaz?
+  Es un conjunto de metodos abstractos (que solo se han definido) que un objeto en específico debe cumplir. 
+  
+2. ¿Que es una clase abstracta?
+  
+3. ¿Que diferencia hay entre herencia e interfaces?
 
-# Recipe
-
-FROM [codenvy/ubuntu_jdk8](https://hub.docker.com/r/codenvy/ubuntu_jdk8/)
-
-# Commands
-
-| #       | Command           | 
-| :------------- |:------------- |
-| 1      | `mvn -f ${current.project.path} clean install && java -jar ${current.project.path}/target/*.jar` |
-
-# App output
-
-App output is streamed into a console. Note that if your app expects user input, do not use command but execute jars in the terminal directly.
+4. ¿Cual es la diferencia entre pila, cola y lista?
