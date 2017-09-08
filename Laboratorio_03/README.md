@@ -1,6 +1,6 @@
 # Laboratorio No. 03  
 
-Resultados
+##Resultados
 ----------------
 1. Se crearon dos clases que tomaron omo implementación una interfaz llamada Shape, que permite a otras clases heredar sus atributos, exigiendole que contenga ciertos metodos.
 2. La clase Rectangle es capaz de operar sus atributos para obtener el área de un rectangulo.
