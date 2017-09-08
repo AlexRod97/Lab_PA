@@ -1,5 +1,5 @@
 # Laboratorio No. 03  
-=====================
+
 Resultados
 ----------------
 1. Se crearon dos clases que tomaron omo implementación una interfaz llamada Shape, que permite a otras clases heredar sus atributos, exigiendole que contenga ciertos metodos.
