@@ -1,20 +1,8 @@
 # console-cpp-simple
+#Laboratorio4
+Se trabajó con parametros por valor, haciendo ejercicios de una calculadora aritmetica y luego con parametros por referencia haciendo uso de punteros con ejercicios también de una calculadora aritmetica. Para esta operacion se hicieron dos cosas:
+1. Se recibió dos parametros que eran los operadores
+2. Una variable que apuntaba a la dirección de memoria donde se iba a almacenar el resultado de cada operacion 
 
-# Developer Workspace
+Por otro lado sse aprendió a compilar y ejecutar un programa en c++ con la consola y directamente con un botón
 
-[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=21w2nx87yto2xi1z)
-
-# Recipe
-
-FROM [codenvy/cpp_gcc](https://hub.docker.com/r/codenvy/cpp_gcc/)
-
-# Commands
-
-| #       | Description           | Command  |
-| :------------- |:-------------| :-----|
-| 1      | Build and run | `cd ${current.project.path} && make && ./a.out` |
-
-
-# Output
-
-The app will print Hello World to the console
